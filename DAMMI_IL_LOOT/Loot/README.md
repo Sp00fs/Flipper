@@ -11,7 +11,7 @@ Questo tool deve essere usato insieme al BADUSB chrometodiscord.txt presente nel
   1. Scarica il folder
   2. Metti il folder da qualche parte sul desktop
   3. Installa i requirements ==PER I NOOBS== ( apri cmd e navigare all'interno del folder con cd, poi fate pip install -r requirements.txt)
-  4. Aprite Dammi_Il_Loot.py
+  4. Aprite Dammi_Il_Loot.pyw
   5. Fantastico, buon divertimento. USATE CONSCIAMENTE !!
 ```
 
