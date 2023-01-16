@@ -9,13 +9,13 @@ Per farlo dovrete utilizzare un programmino che vi permette di farlo in modo vel
 
 
 
-## Features
+## Funzioni
 
 - Apre Powershell
 - Copia 2 files
 - Invia i 2 files su discord tramite webhook
 
-## Feedback
+## Supporto
 
 Se vi serve aiuto o ci sono problemi, potete contattarmi su Telegram "@Sp00fs".
 
