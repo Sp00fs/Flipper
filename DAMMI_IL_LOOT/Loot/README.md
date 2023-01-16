@@ -1,7 +1,7 @@
 
 # Dammi Il Loot
 Tool in grado di decryptare dati Google Chrome
-Questo tool deve essere usato insieme al BADUSB presente nel github.
+Questo tool deve essere usato insieme al BADUSB chrometodiscord.txt presente nel github.
 
 
 
