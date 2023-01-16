@@ -1,0 +1,10 @@
+REM Autore: Sp00fs(Telegram @Sp00fs)
+REM Descrizione: Fa parlare il computer
+DELAY 500
+WINDOWS d
+DELAY 500
+WINDOWS r
+DELAY 500
+STRING powershell.exe -nop -win hidden -c "Add-Type -AssemblyName System.speech; $synth = New-Object System.Speech.Synthesis.SpeechSynthesizer; $synth.Speak('Ciao bello mio, sono nel tuo computer HAHAHAHA.')"
+DELAY 100
+ENTER
