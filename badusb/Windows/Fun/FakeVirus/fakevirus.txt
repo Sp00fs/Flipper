@@ -1,0 +1,12 @@
+REM Autore: Sp00fs (Telegram @Sp00fs)
+REM Descrizione: Apre un sito con un virus fake a schermo intero
+DELAY 500
+GUI r
+DELAY 400
+STRING cmd
+ENTER
+DELAY 500
+STRING rundll32 url.dll,FileProtocolHandler https://fakeupdate.net/wnc/
+ENTER
+DELAY 1000
+F11
