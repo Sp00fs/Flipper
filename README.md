@@ -8,7 +8,7 @@ Stuff I made and dump collected for Flipper Zero
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/UrRnFxydSV" target="blank"><img align="center" 
+<a href="https://discord.gg/UrRnFxydSV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EZEJYkhhdf" height="30" width="40" /></a>
 
 
 
